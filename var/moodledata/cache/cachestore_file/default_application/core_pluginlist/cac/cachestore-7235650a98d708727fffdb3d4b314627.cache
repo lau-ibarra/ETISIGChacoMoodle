@@ -1,0 +1,1 @@
+a:6:{s:4:"file";s:33:"/var/www/moodle/cache/stores/file";s:8:"memcache";s:37:"/var/www/moodle/cache/stores/memcache";s:9:"memcached";s:38:"/var/www/moodle/cache/stores/memcached";s:7:"mongodb";s:36:"/var/www/moodle/cache/stores/mongodb";s:7:"session";s:36:"/var/www/moodle/cache/stores/session";s:6:"static";s:35:"/var/www/moodle/cache/stores/static";}
