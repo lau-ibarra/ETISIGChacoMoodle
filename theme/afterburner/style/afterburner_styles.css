@@ -46,12 +46,17 @@ Header and Logo
     background: #fff;
 }
 a.logo {
-    background: url([[setting:logo]]) no-repeat 0 0;
+   /* background: url([[setting:logo]]) no-repeat 0 0;
     width: 320px;
     height: 75px;
     display: block;
-    margin: 15px 10px 10px;
+    margin: 15px 10px 10px; */
+    background: url([[setting:logo]]) no-repeat 0 0;
     float: left;
+    width: 165px;
+    height: 75px;
+    display: block;
+    margin: 15px 10px 10px;
 }
 .headermenu,
 .langmenu {
